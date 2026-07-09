@@ -29,10 +29,10 @@ Demo credentials for all environments: **[miracuves.com/indeed-clone → Demo se
 Most job-board scripts stop at "list + apply." This platform ships with the features that actually run a recruiting *business*:
 
 - **AI Resume-Match Scoring** — matches job description to candidate resumes with explainable scores — what saves recruiters hours
-- **Built-In ATS Pipeline** — 
-- **Salary Insights** — drag-drop applicant pipeline, interview kits, scorecards — no extra SaaS needed for hiring teams
-- **Company Reviews** — helps candidates tailor cover letters per job — increases application volume
-- **AI Cover-Letter Writer** — employees rate companies, attach photos, respond — what Glassdoor turned into a $1.6B business
+- **Built-In ATS Pipeline** — drag-drop applicant pipeline, interview kits, scorecards — no extra SaaS needed for hiring teams
+- **Salary Insights** — aggregated salary data per role, region, experience — what Indeed and Glassdoor made their moat
+- **Company Reviews** — employees rate companies, attach photos, respond — what Glassdoor turned into a $1.6B business
+- **AI Cover-Letter Writer** — helps candidates tailor cover letters per job — increases application volume
 
 ## 📦 Core Features
 
