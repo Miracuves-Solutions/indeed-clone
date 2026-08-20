@@ -1,11 +1,11 @@
 # Indeed Clone — White-Label Job Board & Recruitment Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxhire.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxdemo.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/indeed-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/indeed-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/indeed-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/indeed-clone/#features)
 
-**MXHire** is a production-ready, white-label Indeed clone: a complete job-board & recruitment platform with seeker, employer, and admin panels — delivered with **100% source code ownership** in **6 working days**.
+**MXDemo** is a production-ready, white-label Indeed clone: a complete job-board & recruitment platform with seeker, employer, and admin panels — delivered with **100% source code ownership** in **6 working days**.
 
 > 💼 **See it running before you talk to anyone.** Live seeker app, employer console, and admin dashboard — demo credentials are printed on the [solution page](https://miracuves.com/indeed-clone#demo). No sales call required.
 
@@ -16,7 +16,7 @@
 | Environment | URL | What you can test |
 |---|---|---|
 | 📱 Seeker App | [mas.mimeld.com](https://mas.mimeld.com) | Search jobs, alerts, apply, profile |
-| 🌐 Web Portal | [mxhire.mimeld.com](https://mxhire.mimeld.com) | Full job-board in browser |
+| 🌐 Web Portal | [mxdemo.mimeld.com](https://mxdemo.mimeld.com) | Full job-board in browser |
 | 🏢 Employer Console | [Solution page → Demo](https://miracuves.com/indeed-clone#demo) | Post jobs, search candidates, ATS, analytics |
 | 🛠️ Admin Dashboard | [Solution page → Demo](https://miracuves.com/indeed-clone#demo) | Jobs, employers, candidates, analytics |
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$2,899**, transparent on the [solution page](https://miracuves.com/indeed-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$2,899**, transparent on the [solution page](https://miracuves.com/indeed-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -80,10 +80,12 @@ Custom job boards run $60k–$250k and 4–8 months. A proven white-label base g
 ## 📚 Resources
 
 - 📖 [Indeed Clone — Full Solution Page](https://miracuves.com/indeed-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Job Board App Cost in 2026?](https://miracuves.com/indeed-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Indeed Clone Script in 2026](https://miracuves.com/indeed-clone/blog/) features, pricing & launch guide
-- 🧠 [SEO of Job Pages: The Underrated Job Board Moat](https://miracuves.com/indeed-clone/blog/) long-tail programatic SEO
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/indeed-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Job Board App Cost in 2026?](https://miracuves.com/indeed-clone#features) pricing breakdown & what's included
+- 📝 [Best Indeed Clone Script in 2026](https://miracuves.com/indeed-clone#features) features, pricing & launch guide
+- 🧠 [SEO of Job Pages: The Underrated Job Board Moat](https://miracuves.com/indeed-clone#features) long-tail programatic SEO
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/indeed-clone#faq) every claim we make, verified
+- 💻 [Indeed Clone — Technical Stack](https://miracuves.com/indeed-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Indeed Clone — How It Works / User Flow](https://miracuves.com/indeed-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -95,7 +97,7 @@ Custom job boards run $60k–$250k and 4–8 months. A proven white-label base g
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/indeed-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/indeed-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: indeed clone, indeed clone script, job board, recruitment, white label Indeed, ATS, Flutter job app, Node.js job board*
 
@@ -106,9 +108,9 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Indeed Clone
-{MX_NAME}         MXHire
+{MX_NAME}         MXDemo
 {CATEGORY}        Job Board & Recruitment Platform
-{DEMO_WEB}        mxhire.mimeld.com
+{DEMO_WEB}        mxdemo.mimeld.com
 {PRICE}           $2,899
 {SLUG}            indeed-clone
 {SOLUTION_URL}    https://miracuves.com/indeed-clone/
